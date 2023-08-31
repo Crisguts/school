@@ -1,5 +1,4 @@
-i did this
-yes
-mwhahahah
-
+this is the first github project
+second line
+merging will be next
 
